@@ -1,3 +1,9 @@
+# Max's Fork
+
+To use the qmk docker image to develop and build on, run:
+
+```docker run -it --rm -v $(pwd):/qmk qmkfm/qmk_firmware bash```
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
